@@ -10,11 +10,11 @@ Flutter跳转到原生iOS、Android页面
 [✓] Android Studio (version 2020.3)
 
 ```
-### IOS、 Android 演示图
+## IOS、 Android 演示图
 |![1](https://github.com/dushiling/project_image/blob/main/flutter_jumpto_native/ios.gif)|![2](https://github.com/dushiling/project_image/blob/main/flutter_jumpto_native/android.gif)|
 | :--: | :--: |
 |IOS|Android|
 
-### 操作说明
+## 操作说明
 请查看我的文章：
 - [Flutter跳转到原生iOS、Android页面](https://www.jianshu.com/p/a50cb7179d33)
